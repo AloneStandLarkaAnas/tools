@@ -10,7 +10,7 @@
      👿apt install php
      👿apt install nano
      👿apt install wget
-     👿git clone https://github.com/alonestandlarkaanas/tools/tool.py.git
+     👿git clone https://github.com/AloneStandLarkaAnas/tools.git
      👿ls
      👿cd tools.py
      👿ls
