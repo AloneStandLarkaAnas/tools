@@ -14,7 +14,7 @@
      👿ls
      👿cd tools.py
      👿ls
-     👿python2 tool.py
+     👿python tool.py
      
       
 ### Hi there 👋
